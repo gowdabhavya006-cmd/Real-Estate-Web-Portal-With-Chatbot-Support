@@ -1,1 +1,3 @@
 # Real-Estate-Web-Portal-With-Chatbot-Support
+
+This project is a web-based real estate platform that allows users to browse, buy, sell, or rent properties through an easy-to-use interface. Property owners and agents can list properties with details such as price, location, and images. The system includes an integrated chatbot that provides instant responses to user queries, helps users find suitable properties, and improves customer support. The platform also offers search and filtering features to make property discovery faster and more efficient. Overall, the project demonstrates the use of web technologies and chatbot integration to create a smart and user-friendly real estate management system.
